@@ -81,3 +81,26 @@ Extensibility
 
 Packaging / Deployment
 - Grunt shall be used to package the e4x2ed library.
+
+Road Map
+--------
+
+Version 1.0.0
+
+- Extend Esprima to support E4X
+-- Feature X
+-- Feature Y
+-- Feature Z
+- Implement a walker to output to a string
+-- ES to ES
+-- Feature X
+-- Feature Y
+-- Feature Z
+
+Version 2.0.0 
+
+- Implement a walker to execute
+-- ES to ES
+-- Feature X
+-- Feature Y
+-- Feature Z
