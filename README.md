@@ -85,22 +85,22 @@ Packaging / Deployment
 Road Map
 --------
 
-Version 1.0.0
+*Version 1.0.0*
 
 - Extend Esprima to support E4X
--- Feature X
--- Feature Y
--- Feature Z
+    - Feature X
+    - Feature Y
+    - Feature Z
 - Implement a walker to output to a string
--- ES to ES
--- Feature X
--- Feature Y
--- Feature Z
+    - ES to ES
+    - Feature X
+    - Feature Y
+    - Feature Z
 
-Version 2.0.0 
+*Version 2.0.0*
 
 - Implement a walker to execute
--- ES to ES
--- Feature X
--- Feature Y
--- Feature Z
+    - ES to ES
+    - Feature X
+    - Feature Y
+    - Feature Z
